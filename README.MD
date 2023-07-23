@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410083** |
+| Nama Lengkap | **Niko Riant Cahyono** |
 | Kelas | TI-4B |
